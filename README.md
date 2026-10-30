@@ -1,25 +1,17 @@
 <div align="center">
 
-# GUST, by [Nautilus Labs](https://github.com/nautilus-os)
+# [yaanscoat/chicken-pho](https://github.com/yaanscoat)
 
-![version](https://img.shields.io/badge/version-2.0-blue?style=flat-square)
+![version](https://img.shields.io/badge/version-1.0-blue?style=flat-square)
 ![license](https://img.shields.io/badge/license-AGPLv3-green?style=flat-square)
-![no service workers](https://img.shields.io/badge/service%20workers-absolutely%20not-red?style=flat-square)
 ![totally working svg](https://img.shields.io/badge/svg%20functionality-gorgeous%20and%20beautiful-blue?style=flat-square)
 
 </div>
 
 ---
+## whatdehell
 
-## Links
-
-- https://cdn.jsdelivr.net/gh/nautilus-os/GUST@latest/svg/site.svg
-- https://gust-browser.vercel.app
-
----
-## What is this?
-
-GUST is a full-featured web proxy that lives entirely inside a single HTML file, allowing you to use it without any setup, hosting, or terminal access. It was built by the Nautilus Labs team to be a replacement for every single other proxy out there, and to put an end to school blocked proxies once and for all. 
+This is essentially a fork of gust but made by meeeeeeeee
 
 ---
 
